@@ -1,0 +1,15 @@
+{
+  "slug": "online",
+  "title": "Cursos en linea",
+  "description": "Cursos en linea terminados" ,
+  "items":[
+    {
+      "name":"Curso de javascript",
+      "url":"http://www.google.com"
+    },
+    {
+      "name":"Curso de Gatsby",
+      "url":"http://www.google.com"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "others",
+  "title": "Otros logros academicos",
+  "description": "Talleres, Diplomados" ,
+  "items":[
+    {
+      "name":"Taller de seguridad informatica",
+      "degree":"Inicial",
+      "score":"94"
+    }
+  ]
+}

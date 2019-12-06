@@ -1,0 +1,17 @@
+{
+  "slug": "presencial",
+  "title": "Formación Academica",
+  "description": "Formación Academica, grado de estudios e instituciones a las que asisti" ,
+  "items":[
+    {
+      "name":"Universidad de las Américas Puebla",
+      "degree":"Computer Systems Engineeer",
+      "score":"94"
+    },
+    {
+      "name":"Codigo facilito",
+      "degree":"Engineer",
+      "score": "100"
+    }
+  ]
+}
